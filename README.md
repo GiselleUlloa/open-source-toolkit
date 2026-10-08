@@ -26,6 +26,7 @@ Explore each technology, follow the resources, experiment locally, and contribut
   * [Gemma](./gemma/)
   * [OpenCode](./opencode/)
   * [Interledger](./interledger/)
+  * [Devin](./devin/)
 * [Learn by Building](#learn-by-building)
 * [Structure](#structure)
 * [Contributing](#contributing)
@@ -35,11 +36,12 @@ Explore each technology, follow the resources, experiment locally, and contribut
 
 ## Technologies
 
-| Technology                    | Focus            | Resources                                                                                                   |
-| ----------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------- |
-| [Gemma](./gemma/)             | Open AI Models   | [Documentation](https://ai.google.dev/gemma) · [GitHub](https://github.com/google-deepmind/gemma)           |
-| [OpenCode](./opencode/)       | AI Coding Agents | [Website](https://opencode.ai) · [GitHub](https://github.com/anomalyco/opencode)                            |
-| [Interledger](./interledger/) | Open Protocols   | [Documentation](https://interledger.org/developers/get-started/) · [GitHub](https://github.com/interledger) |
+| Technology                    | Focus                | Resources                                                                                                   |
+| ----------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [Gemma](./gemma/)             | Open AI Models       | [Documentation](https://ai.google.dev/gemma) · [GitHub](https://github.com/google-deepmind/gemma)           |
+| [OpenCode](./opencode/)       | AI Coding Agents     | [Website](https://opencode.ai) · [GitHub](https://github.com/anomalyco/opencode)                            |
+| [Interledger](./interledger/) | Open Protocols       | [Documentation](https://interledger.org/developers/get-started/) · [GitHub](https://github.com/interledger) |
+| [Devin](./devin/)             | AI Software Engineer | [Website](https://devin.ai/) · [Docs](https://docs.devin.ai/) · [GitHub](https://github.com/CognitionAI)    |
 
 ---
 
@@ -67,6 +69,7 @@ open-source-toolkit/
 ├── gemma/
 ├── opencode/
 ├── interledger/
+├── devin/
 │
 └── README.md
 ```
