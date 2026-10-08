@@ -41,7 +41,7 @@ Explore each technology, follow the resources, experiment locally, and contribut
 | [Gemma](./gemma/)             | Open AI Models       | [Documentation](https://ai.google.dev/gemma) · [GitHub](https://github.com/google-deepmind/gemma)           |
 | [OpenCode](./opencode/)       | AI Coding Agents     | [Website](https://opencode.ai) · [GitHub](https://github.com/anomalyco/opencode)                            |
 | [Interledger](./interledger/) | Open Protocols       | [Documentation](https://interledger.org/developers/get-started/) · [GitHub](https://github.com/interledger) |
-| [Devin](./deviai/)             | AI Software Engineer | [Website](https://devin.ai/) · [Docs](https://docs.devin.ai/) · [GitHub](https://github.com/CognitionAI)    |
+| [devinai](./devinai/)             | AI Software Engineer | [Website](https://devin.ai/) · [Docs](https://docs.devin.ai/) · [GitHub](https://github.com/CognitionAI)    |
 
 ---
 
