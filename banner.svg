@@ -1,0 +1,87 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08060D"/>
+      <stop offset="0.55" stop-color="#120B1F"/>
+      <stop offset="1" stop-color="#050509"/>
+    </linearGradient>
+
+    <radialGradient id="purpleGlow" cx="0" cy="0" r="1"
+      gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(950 60) rotate(135) scale(430 330)">
+      <stop stop-color="#A855F7" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="purpleGlow2" cx="0" cy="0" r="1"
+      gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(150 290) rotate(-20) scale(350 220)">
+      <stop stop-color="#7C3AED" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+
+  <rect width="1200" height="320" rx="24" fill="url(#purpleGlow)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#purpleGlow2)"/>
+
+  <g opacity="0.12">
+    <path
+      d="M0 260C180 190 270 310 450 230C650 140 710 260 900 180C1030 125 1110 155 1200 110"
+      stroke="#C084FC"
+      stroke-width="1"
+    />
+
+    <path
+      d="M0 285C190 215 300 330 480 250C650 175 760 275 930 205C1050 155 1120 185 1200 135"
+      stroke="#A855F7"
+      stroke-width="1"
+    />
+  </g>
+
+  <circle cx="90" cy="78" r="7" fill="#A855F7"/>
+  <circle cx="1130" cy="245" r="5" fill="#C084FC"/>
+  <circle cx="1045" cy="105" r="3" fill="#E9D5FF"/>
+
+  <text
+    x="600"
+    y="145"
+    text-anchor="middle"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="56"
+    font-weight="800"
+    fill="#FFFFFF">
+    Open Source Toolkit
+  </text>
+
+  <text
+    x="600"
+    y="195"
+    text-anchor="middle"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="22"
+    font-weight="500"
+    fill="#D8B4FE">
+    Learn · Explore · Build · Share
+  </text>
+
+  <text
+    x="600"
+    y="235"
+    text-anchor="middle"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="15"
+    fill="#A1A1AA">
+    Open Source technologies, tools &amp; resources
+  </text>
+
+  <rect
+    x="430"
+    y="262"
+    width="340"
+    height="1"
+    fill="#8B5CF6"
+    opacity="0.55"
+  />
+</svg>
