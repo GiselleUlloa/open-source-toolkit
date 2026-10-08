@@ -1,75 +1,69 @@
-#  Open Source Toolkit
+<div align="center">
 
-> **Aprende · Explora · Construye · Comparte**
+<img src="./banner.svg" width="100%" alt="Open Source Toolkit">
 
-Una colección práctica de **tecnologías, herramientas y recursos Open Source** para aprender construyendo.
+<br>
 
----
+![Open Source](https://img.shields.io/badge/Open%20Source-18181B?style=for-the-badge\&logo=opensourceinitiative\&logoColor=A855F7)
+![MIT License](https://img.shields.io/badge/License-MIT-18181B?style=for-the-badge)
 
-## 🛠️ Herramientas
-
-### 🤖 Gemma 4
-
-Explora modelos de IA abiertos y aprende construyendo aplicaciones y experimentos con inteligencia artificial.
-
-**Temas:**
-
-* 🧠 Inteligencia Artificial
-* 💬 LLMs
-* 💻 IA local
-* 🧪 Experimentos
-* 🛠️ Aplicaciones de IA
+</div>
 
 ---
 
-### 💻 OpenCode
+## About
 
-Aprende sobre desarrollo de software asistido por IA y herramientas basadas en agentes de código.
+**Open Source Toolkit** is a practical collection of open-source technologies, tools, and resources for learning, experimentation, and building real projects.
 
-**Temas:**
-
-* 🤖 IA para programación
-* 🧩 Agentes de código
-* 👩‍💻 Developer Tools
-* 🌐 Open Source
-* 🛠️ Proyectos prácticos
+Explore each technology, follow the resources, experiment locally, and contribute what you learn along the way.
 
 ---
 
-### 🌐 Interledger
+## Quick Navigation
 
-Explora protocolos abiertos e interoperabilidad para conectar diferentes sistemas y facilitar el movimiento de valor.
+* [Technologies](#technologies)
 
-**Temas:**
-
-* 🔗 Interoperabilidad
-* 🌍 Protocolos abiertos
-* 💸 Pagos
-* 🔌 APIs
-* 💡 Tecnología financiera
-
----
-
-## 🚀 Aprende construyendo
-
-Cada herramienta tendrá recursos prácticos para pasar de la teoría a la práctica:
-
-* 📖 ¿Qué es?
-* 🎯 ¿Para qué sirve?
-* ⚙️ ¿Cómo empezar?
-* 💻 Instalación
-* 🧪 Primer ejemplo
-* 🚀 Proyecto práctico
-* 🔗 Recursos
-* 🤝 Cómo contribuir
+  * [Gemma](./gemma/)
+  * [OpenCode](./opencode/)
+  * [Interledger](./interledger/)
+* [Learn by Building](#learn-by-building)
+* [Structure](#structure)
+* [Contributing](#contributing)
+* [License](#license)
 
 ---
 
-## 📁 Estructura
+## Technologies
+
+| Technology                    | Focus            | Resources                                                                                                   |
+| ----------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------- |
+| [Gemma](./gemma/)             | Open AI Models   | [Documentation](https://ai.google.dev/gemma) · [GitHub](https://github.com/google-deepmind/gemma)           |
+| [OpenCode](./opencode/)       | AI Coding Agents | [Website](https://opencode.ai) · [GitHub](https://github.com/anomalyco/opencode)                            |
+| [Interledger](./interledger/) | Open Protocols   | [Documentation](https://interledger.org/developers/get-started/) · [GitHub](https://github.com/interledger) |
+
+---
+
+## Learn by Building
+
+**Explore → Experiment → Build → Share**
+
+Each technology includes practical resources:
+
+* Introduction
+* Getting Started
+* Examples
+* Projects
+* Resources
+* Contribution ideas
+
+---
+
+## Structure
 
 ```text
 open-source-toolkit/
 │
+├── banner.svg
 ├── gemma/
 ├── opencode/
 ├── interledger/
@@ -79,40 +73,24 @@ open-source-toolkit/
 
 ---
 
-## 🤝 Contribuciones
+## Contributing
 
-¡Las contribuciones son bienvenidas!
+Contributions are welcome.
 
-Puedes contribuir:
+Documentation, examples, experiments, projects, fixes and new Open Source technologies are welcome.
 
-* 📝 Mejorando la documentación
-* 💡 Agregando ejemplos
-* 📚 Creando tutoriales
-* 🛠️ Construyendo proyectos
-* 🔗 Compartiendo recursos
-* 🐛 Corrigiendo errores
-* 🌱 Agregando nuevas tecnologías Open Source
-
-> **Si estás aprendiendo, también puedes contribuir.**
+> **You don't need to be an expert to contribute.**
 
 ---
 
-## 🎯 Objetivo
+## License
 
-Crear un espacio para **descubrir tecnologías Open Source, aprender cómo funcionan y construir con ellas**.
-
-**Descubrir → Explorar → Construir → Compartir**
-
----
-
-## 📄 Licencia
-
-Este proyecto está disponible bajo la **Licencia MIT**.
+MIT License
 
 ---
 
 <div align="center">
 
-### 🚀 Aprende. Explora. Construye. Comparte.
+### Learn · Explore · Build · Share
 
 </div>
